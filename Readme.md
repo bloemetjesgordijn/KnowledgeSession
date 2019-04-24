@@ -1,1 +1,2 @@
-This is the repository for the eProseed knowledge sesssion about git
+# KnowledgeSession
+Repository for the knowledge session
