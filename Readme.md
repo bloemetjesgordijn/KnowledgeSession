@@ -1,1 +1,1 @@
-This is the repository for the eProseed knowledge sesssion about git for BloemetjesGordijn LMAO
+This is the repository for the eProseed knowledge sesssion about git
